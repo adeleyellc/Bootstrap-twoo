@@ -1,0 +1,53 @@
+
+
+picture {
+padding-top: 60px;
+}
+
+.mybtn {
+    background: #482BE7;
+    border: 0px solid;
+    color: white;
+    font-size: small;
+}
+
+.logos {
+display: flex;
+gap: 25px;
+margin-top: 8px;
+}
+
+.container p {
+    color: rgba(196, 196, 196, 1);
+}
+
+.container h1 {
+    color: #1E0E62;
+    font-weight: bold;
+}
+
+.logo {
+    margin-top: 60px;
+}
+    
+
+    
+
+
+
+
+
+
+
+
+
+ 
+
+
+    
+
+
+    
+
+
+
